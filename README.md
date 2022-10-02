@@ -19,16 +19,22 @@ A calculator is a device that uses numbers to execute arithmetic operations. Onl
 # Screenshots
 
 # 1- Addition
+![Addition](https://user-images.githubusercontent.com/91963525/193454615-0615af8f-c80d-4547-a036-5aef24f37a0e.png)
 
 # 2- Subtraction
+![Subtraction](https://user-images.githubusercontent.com/91963525/193454625-c0da6647-51c8-4a68-8d4b-07616c99a7c0.png)
 
 # 3- Division
+![Division](https://user-images.githubusercontent.com/91963525/193454634-41cc1a4e-9081-4dea-bdcd-5210aebf4d1b.png)
 
 # 4- Multiplication
+![Multiplication](https://user-images.githubusercontent.com/91963525/193454638-e234db3b-6f1e-4fc0-bed1-3798cd775243.png)
 
 # 5- Exponential
+![Exponential](https://user-images.githubusercontent.com/91963525/193454646-7ef194cb-3186-4157-8f5d-44dc2c02512f.png)
 
 # 6- Percentage
+![Percentage](https://user-images.githubusercontent.com/91963525/193454653-8bb748ec-ce7b-442c-9a10-311ec2d65b28.png)
 
 # Contributors
 1) Syed Ali Raza
