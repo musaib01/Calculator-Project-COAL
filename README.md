@@ -17,3 +17,18 @@ A calculator is a device that uses numbers to execute arithmetic operations. Onl
 7) '!' factorial of a value
 
 # Screenshots
+
+# 1- Addition
+
+# 2- Subtraction
+
+# 3- Division
+
+# 4- Multiplication
+
+# 5- Exponential
+
+# 6- Percentage
+
+# Contributors
+1) Syed Ali Raza
