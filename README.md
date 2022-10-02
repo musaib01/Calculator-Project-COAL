@@ -8,12 +8,12 @@ A calculator's primary function is to produce a computed result in response to a
 A calculator is a device that uses numbers to execute arithmetic operations. Only addition, subtraction, multiplication, and division are possible with the most basic calculators. Exponential operations, roots, logarithms, trigonometric functions, and hyperbolic functions are all handled by more advanced calculators. Internally, some calculators accomplish all of these tasks through repeating addition processes.
 
 # Arithmetic Operations
-'+' plus or addition
-'-' minus or subtraction
-'*' times, or multiply by
-'/ or ÷' divided by, over, division by
-'^' raised to the power of
-'ex' exponent, raise e to the power x
-'!' factorial of a value
+1) '+' plus or addition
+2) '-' minus or subtraction
+3) '*' times, or multiply by
+4) '/ or ÷' divided by, over, division by
+5) '^' raised to the power of
+6) 'ex' exponent, raise e to the power x
+7) '!' factorial of a value
 
 # Screenshots
